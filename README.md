@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react js ,vue js**
 
-- 👨‍💻 All of my projects are available at [www.sulthon.blue](www.sulthon.blue)
+- 👨‍💻 All of my projects are available at [https://www.sulthon.blue](https://www.sulthon.blue)
 
 - 💬 Ask me about **nodejs , express js**
 
