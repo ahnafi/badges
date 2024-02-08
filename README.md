@@ -17,4 +17,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![my-skills](https://skillicons.dev/icons?i=ts,js,html,css,cpp,c,nodejs,react,vue,tailwind,bootstrap,express,mongo,mysql,jest,babel,git,github,postman,linux,prisma,vite,arduino,vercel,vscode&perline=10)(https://skillicons.dev/)
+[![my-skills](https://skillicons.dev/icons?i=ts,js,html,css,cpp,c,nodejs,react,vue,tailwind,bootstrap,express,mongo,mysql,jest,babel,git,github,postman,linux,prisma,vite,arduino,vercel,vscode&perline=10)](https://skillicons.dev/)
